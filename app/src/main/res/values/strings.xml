@@ -2,10 +2,10 @@
     <string name="app_name">Proximity Reminder</string>
     <string name="title_activity_reminder_writer">ReminderWriterActivity</string>
 
-    <string name="android_key">AIzaSyDCMEn5Z-3ZEWbXAW-EiOZcU_kCuuL9ZRI</string>>
-    <string name="mps_key">AIzaSyDaXc7EHoskuwiT-oUnptOjxEnv1j2ZgeA</string>
-    <string name="google_client_id">287612224122-k40vqn979vou2kcuj70o0rbrq10f0cvs.apps.googleusercontent.com</string>
-    <string name="google_web_id">287612224122-o1hbptnfh3k5366rlne9dv6fs3mqmu85.apps.googleusercontent.com</string>
+    <string name="android_key">android_key_here</string>>
+    <string name="mps_key">mps_key_here</string>
+    <string name="google_client_id">google_client_id.apps.googleusercontent.com</string>
+    <string name="google_web_id">google_web_id.apps.googleusercontent.com</string>
 
     <string name="location_required_error">Location required</string>
 
